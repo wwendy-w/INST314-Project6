@@ -1,0 +1,11 @@
+answer to Q1,answer to Q2,answer to Q3,answer to Q4,answer to Q5,respondent's age,respondent's gender (optional),respondent's occupation
+2,2,9,difference-removing,no,50,male,n/a
+3,6,7,difference-removing,no,20,female,student
+1,1,10,difference-denying,no,21,female,student
+2,2,8,difference-removing,no,19,male,student
+1,3,9,difference-removing,no,23,female,student
+1,2,10,difference-removing,no,20,female,student
+1,1,7,difference-removing,no,21,male,student
+2,3,9,difference-removing,no,20,n/a,student
+1,1,10,difference-denying,no,19,n/a,student
+1,1,8,difference-removing,no,20,female,student
